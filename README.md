@@ -35,7 +35,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 1. This is a React project and the code editor I use is Visual Studio Code.
 
-2. When you want to update a field, you will need to double click the text, then you can make any changes and decide if you want to save or cancel the changes. Please see below:
+2. 
+
+2.1. The app page should look like this after you run "npm start"
+![Test Image 1](https://github.com/ReginaYang2018/profile_app/blob/master/page%20look.png).
+
+2.2. When you want to update a field, you will need to double click the text, then you can make any changes and decide if you want to save or cancel the changes. Please see below:
 ![Test Image 1](https://github.com/ReginaYang2018/profile_app/blob/master/edit%20information.png).
 
 3. In order to to import react-bootstrap and react-router-dom, you will need to install react-bootstrap, which can be obtained by running 'npm i bootstrap@version no.'
